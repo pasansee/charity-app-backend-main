@@ -161,7 +161,7 @@ app.post('/payment', async (req, res) => {
     console.log(error)
   }
 
-  //res.send("Hello, World!");
+  
 } )
 
 
@@ -206,7 +206,7 @@ app.post('/attach', async (req, res) => {
     );
   
 
-  //res.send("Hello, World!");
+  
 } )
 
 // app.listen(PORT, () => console.log("Server running on port 5000"));
